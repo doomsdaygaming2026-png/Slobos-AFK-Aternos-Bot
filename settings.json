@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VoidXMine67.aternos.me
-",
+    "ip": "VoidXMine67.aternos.me:19582",
     "port": 19582,
     "version": "",
     "try-creative": false
